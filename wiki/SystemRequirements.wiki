@@ -1,0 +1,8 @@
+== System Requirements ==
+
+  *Windows XP
+    No other OS have been tested
+
+  *.NET Platform Version 2.0 or higher
+  *Visual Studio 2005 or higher (if you wish to compile the source)
+
