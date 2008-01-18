@@ -1,0 +1,11 @@
+== To Copy a Single File's Full Path and Name ==
+
+  #  Launch the FileNameCopy executable (you should see a new icon appear in the system tray)
+  #  Use Windows Explorer/My Computer to find the file whose name you'd like to copy
+  #  Click on the FileNameCopy icon, a window (The "File Drop Window") should appear above the tray
+  #  Drag the file whose name you'd like to copy onto the File Drop Window
+  #  The file's full path will appear in the file list in the File Drop Window
+  #  The file's full path will now be in the Windows clipboard, allowing you to paste it wherever you'd like
+
+
+== Working with Multiple Files ==
