@@ -6,6 +6,14 @@
   #  Drag the file whose name you'd like to copy onto the File Drop Window
   #  The file's full path will appear in the file list in the File Drop Window
   #  The file's full path will now be in the Windows clipboard, allowing you to paste it wherever you'd like
+  #  You can change what information you want sent to clipboard by using the button on the File Drop Window, see the next section for a description of the button functions
 
 
 == Working with Multiple Files ==
+  #  Drag a group of files and folders onto the File Drop Window
+  #  All of the files should appear in the file list as selected
+  #  Click on the name of the files you'd like to copy (you can use "shift + click" or "ctrl + click" to select multiple files)
+  #  Click one of the three buttons the function of the buttons are as follows:
+     *  *Path* : Just the path (aka folder) of each selected will be sent to the clipboard
+     *  *FileName* : Just the file name, with no path information
+     *  *Name + Path* : The full path and file name for each selected file.
