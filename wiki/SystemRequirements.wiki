@@ -1,8 +1,19 @@
+#labels Phase-Deploy
 == System Requirements ==
 
-  *Windows XP
-    No other OS have been tested
+  *  Windows XP _(Untested on Vista, but should work)_
+  *  .NET Platform Version 2.0 or higher
+  *  Visual Studio 2005 or higher (if you wish to compile the source)
 
-  *.NET Platform Version 2.0 or higher
-  *Visual Studio 2005 or higher (if you wish to compile the source)
 
+==  Installation ==
+
+* 2 Methods:*
+
+  # Download the executable, from the project downloads page, and run it.
+
+  # Build from source:
+       *  Get the FileNameCopy folder from the svn repository
+       *  Open the .sln or .csproj file with Visual Studio
+       *  Build the project
+       *  Run the executable 
