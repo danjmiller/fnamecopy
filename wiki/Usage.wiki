@@ -15,5 +15,5 @@
   #  Click on the name of the files you'd like to copy (you can use "shift + click" or "ctrl + click" to select multiple files)
   #  Click one of the three buttons the function of the buttons are as follows:
      *  *Path* : Just the path (aka folder) of each selected will be sent to the clipboard
-     *  *FileName* : Just the file name, with no path information
+     *  *File Name* : Just the file name, with no path information
      *  *Name + Path* : The full path and file name for each selected file.
